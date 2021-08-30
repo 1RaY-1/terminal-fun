@@ -1,2 +1,18 @@
-# fun-with-terminal-colors
-Script that changes background colors of your terminal/command line in random order, until you don't stop it with CTRL + C. For Linux and Windows
+## What the scripts do
+<img src="https://github.com/1RaY-1/fun-with-bash-colors/blob/main/imgs/fun.gif" width="600" height="600" />
+
+The script in directory 'Windows' if for Windows and in 'Linux' is for Linux.
+
+# How to run
+
+## Windows
+Type:
+
+```.\fun.ps1```
+## Linux
+Type:
+
+```bash fun.sh```
+
+# Note
+You can't type while running this script.
