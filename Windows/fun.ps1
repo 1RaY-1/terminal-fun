@@ -1,4 +1,4 @@
-#!/bin/pwsh
+#!/usr/bin/pwsh
 
 <#
 Simple PowerShell script that will change background colors of your terminal in random order, until you don't stop it with CTRL + C.
