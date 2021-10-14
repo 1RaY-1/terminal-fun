@@ -6,17 +6,17 @@
 ## On Windows
 Go to [Windows directory](https://github.com/1RaY-1/terminal-fun/tree/main/Windows)
 
-And in your command line type:
+Open your powershell terminal there and type:
 
 ```.\fun.ps1```
-## On Linux
+## On Linux/Mac
 Go to [Linux directory](https://github.com/1RaY-1/terminal-fun/tree/main/Linux)
 
-And in your terminal type:
+Open your terminal there and type:
 
 ```bash fun.sh```
 
 # Note
-You can't type while running this script.
+You can't type in the terminal while running this script.
 
 To stop it, use CTRL + C
