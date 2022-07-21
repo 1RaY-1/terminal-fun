@@ -11,11 +11,11 @@ $all_colors = @(
 
 function fun {
     foreach ($each_color in $all_colors) {
-        $each_color = Get-Random -InputObject $all_colors # <-- let this line if you want to choose colors in random order, if not, then remove it, or put '#' in the beginning of the line
+        $each_color = Get-Random -InputObject $all_colors # <-- let this line if you wanna choose colors in random order (or remove it if don't want to)
         $Host.UI.RawUI.BackgroundColor = ($bckg = $each_color)
         $Host.UI.RawUI.ForegroundColor = $bckg
         clear
-        sleep 0.6s
+        Start-Sleep -Seconds 0.6 # <-- delay before changing color
     }
     
 }
