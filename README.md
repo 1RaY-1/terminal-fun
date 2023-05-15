@@ -1,5 +1,5 @@
 ## What is it?
-This is a script that will randomly change background colors of your terminal until you don't stop it.
+Just colors...
 
 <img src="https://github.com/1RaY-1/fun-with-terminal-colors/blob/main/imgs/fun.gif" width="600" height="600" />
 
@@ -16,7 +16,7 @@ Then...
 
 ```.\fun.ps1```
 
-## On Linux/Mac
+## On Linux
 * Go to [Linux directory](https://github.com/1RaY-1/terminal-fun/tree/main/Linux)
 
 * Open terminal there and type:
@@ -24,6 +24,4 @@ Then...
 ```bash fun.sh```
 
 # Note
-You can't type in the terminal while running this script.
-
-To stop it, press CTRL + C
+CTRL + C To stop
