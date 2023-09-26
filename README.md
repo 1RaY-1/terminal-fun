@@ -23,5 +23,9 @@ Then...
 
 ```bash fun.sh```
 
-# Note
-CTRL + C To stop
+## More
+
+You can't type while running this scripts.
+
+Press CTRL + C To stop
+
