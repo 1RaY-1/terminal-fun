@@ -25,7 +25,7 @@ Then...
 
 ## More
 
-You can't type while running this scripts.
+* You can't type while running this scripts.
 
-Press CTRL + C To stop
+* To Stop it:  CTRL + C
 
